@@ -1,2 +1,2 @@
 # website
-The website and dashboard for the Onyx bot.
+The non-existant website and dashboard for the Onyx bot.
